@@ -43,9 +43,4 @@ python "Dsp Project.py"
 
 Make sure you are using a Python environment where `tkinterdnd2` is properly installed and supported.
 
-## 👨‍💻 Author
-
-Omar Mohamed Ahmed Abo Elmaaty  
-Faculty of Computer and Information Sciences, Mansoura University  
-3rd-Year Student  
 

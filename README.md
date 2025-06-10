@@ -24,7 +24,8 @@ A simple drag-and-drop graphical user interface (GUI) for basic image processing
 
 ## 🖼️ Interface Preview
 
-> _You can upload a screenshot of the app here for better visuals._
+![image](https://github.com/user-attachments/assets/99abd5e7-6cec-4a69-936b-763ec96d54ab)
+
 
 ## 🛠️ Requirements
 
@@ -42,21 +43,9 @@ python "Dsp Project.py"
 
 Make sure you are using a Python environment where `tkinterdnd2` is properly installed and supported.
 
-## 📁 File Structure
-
-```
-.
-├── Dsp Project.py        # Main application code
-├── README.md             # This file
-└── .gitignore            # Python build artifacts ignore rules
-```
-
 ## 👨‍💻 Author
 
 Omar Mohamed Ahmed Abo Elmaaty  
 Faculty of Computer and Information Sciences, Mansoura University  
-Section 4 | 3rd-Year Student  
+3rd-Year Student  
 
-## 📝 License
-
-This project is open source and free to use.
